@@ -23,9 +23,8 @@
         width:100%;
         height:100px;
         background-color: var(--preto-dnc);    
-        
         display:flex;
-        justify-content: space-between;
+        justify-content: space-around;
         align-items: center;
         border-bottom: 1px solid #BABABA;
     }
