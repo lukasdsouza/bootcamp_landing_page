@@ -24,18 +24,17 @@
         height:100px;
         background-color: var(--preto-dnc);    
         display:flex;
-        justify-content: space-around;
+
         align-items: center;
         border-bottom: 1px solid #BABABA;
     }
 
         #menu{
             display:flex;
-            width:45%;
+            width:55%;
             justify-content: space-around;
             align-items: center;
-
-            margin-left:5%;
+            margin-left:10%;
         }
 
         #principal div a{
@@ -50,11 +49,11 @@
             color:var(--cinza-hover);
         }
 
-        #principal button{
+        #principal div button{
             margin-right:5%;
             background-color: var(--azul-dnc);
             border:0px;
-
+            margin-left: 200px;
             height:40px;
             width:80px;
 
